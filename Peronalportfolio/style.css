@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif; 
+  background-color: #f9c5bd ;
+}
+
+header {
+  background-color: #e1b382;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+main {
+  padding: 20px;
+}
+
+.bio {
+  margin-bottom: 20px;
+}
+
+.contact {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact li {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  background-color:  #e1b382;;
+  padding: 20px;
+}
