@@ -1,0 +1,36 @@
+.countdown-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #e9d7c2;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    margin: 50px auto;
+    width: 500px;
+}
+
+.time-label {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.countdown {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+}
+
+.delimiter {
+    padding: 0 5px;
+}
+
+#start-timer {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
